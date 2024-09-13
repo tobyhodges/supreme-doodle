@@ -1,5 +1,5 @@
 ---
-title: "Ingredients for a secred dish"
+title: "Ingredients for the secret dish"
 teaching: 0
 exercises: 0
 ---
