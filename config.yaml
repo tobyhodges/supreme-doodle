@@ -67,6 +67,8 @@ contact: 'tobyhodges@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- ingredients.md
+- baking-method.md
 
 # Information for Learners
 learners: 
