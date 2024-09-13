@@ -68,7 +68,7 @@ contact: 'tobyhodges@carpentries.org'
 episodes: 
 - introduction.md
 - ingredients.md
-- baking-method.md
+- preparation-method.md
 
 # Information for Learners
 learners: 
