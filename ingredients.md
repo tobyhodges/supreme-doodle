@@ -19,6 +19,19 @@ exercises: 0
 
 TODO
 
+
+:::::: challenge
+
+Challenge text, code or other information.
+
+::: solution
+
+Give a hint or solution.
+
+::::::
+
+::::::
+
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - To make the perfect secret dish, you need flour, egg, salt and yeast.
