@@ -10,7 +10,7 @@ Before coming to this course, please make sure you have:
 - prereq 2
 - prereq 3
 
-After completing this course, you shoudl be able to do:
+After completing this course, you should be able to do:
 
 - skill 1
 - skill 2
