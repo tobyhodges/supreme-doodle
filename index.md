@@ -10,6 +10,12 @@ Before coming to this course, please make sure you have:
 - prereq 2
 - prereq 3
 
+After completing this course, you shoudl be able to do:
+
+- skill 1
+- skill 2
+- skill 3
+- skill 4
 
 [workbench]: https://carpentries.github.io/sandpaper-docs
 
